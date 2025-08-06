@@ -1,4 +1,9 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjExNTk4MzgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgyOGIwQzkwQjk1NGVGNjYzNjBCOTBBMDc4OUJlQjc1NjMwODI1YjQzIn0",
+    "payload": "eyJkb21haW4iOiJjb253YXktbWluaWFwcC52ZXJjZWwuYXBwIn0",
+    "signature": "MHg2MmE1MTc4NGZiODg3ZThlYjdhZjQ3MTJhOGQ5YmU2ZmE2MTI3ZjUyMmI5Y2Y5NTgzMTRjNzM3Mzk5MzBkZGVjMmVjMzdkZDVjNzRlZGExZDdkNDVmY2UwMTdjNzQ0ODFmOTQxM2E2YzBlOWQ2YTdmZTQ0ZmU1N2RjMjk3M2I4MTFj"
+  },
   "miniapp": {
     "version": "1",
     "name": "Conway's Game of Life!",
