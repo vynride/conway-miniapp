@@ -3,7 +3,7 @@
     "version": "1",
     "name": "Conway's Game of Life!",
     "iconUrl": "/logo.png",
-    "homeUrl": "",
+    "homeUrl": "https://conway-miniapp.vercel.app/",
     "imageUrl": "/banner.png",
     "buttonTitle": "👾 Start", 
     "splashImageUrl": "/logo.png",
