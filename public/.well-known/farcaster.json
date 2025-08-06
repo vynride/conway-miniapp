@@ -2,12 +2,11 @@
   "miniapp": {
     "version": "1",
     "name": "Conway's Game of Life!",
-    "iconUrl": "/logo.png",
+    "iconUrl": "https://conway-miniapp.vercel.app/logo.png",
     "homeUrl": "https://conway-miniapp.vercel.app/",
-    "imageUrl": "/banner.png",
+    "imageUrl": "https://conway-miniapp.vercel.app/banner.png",
     "buttonTitle": "👾 Start", 
-    "splashImageUrl": "/logo.png",
-    "splashBackgroundColor": "#f5f0ec",
-    "webhookUrl": ""
+    "splashImageUrl": "https://conway-miniapp.vercel.app/logo.png",
+    "splashBackgroundColor": "#f5f0ec"
   }
 }
